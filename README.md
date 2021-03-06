@@ -18,13 +18,14 @@
 - εισαγωγή ήχου και live επεξεργασία  (2 inputs : 0 = contact mic, 1 = circuit)
 
 Καθώς, ήταν η πρώτη φορά που ασχολήθηκα σχολαστικά με το συγκεκριμένο περιβάλλον προγραμματισμού – εκτός από τις παρουσιάσεις, τις σημειώσεις του μαθήματος, αλλά και τη στοχευμένη καθοδήγηση του διδάσκοντα αναφορικά με την εργασία μου – ανέτρεξα στις εξής πηγές:
-- Super Collider Documentation home,  (documentation ) ώστε να ανακαλύψω βασικές λειτουργίες των διαφόρων στοιχείων
+- Super Collider Documentation home, ώστε να ανακαλύψω βασικές λειτουργίες των διαφόρων στοιχείων
 
-- A Gentle Intro to SC, Ruviaro, B. (2014). A Gentle Introduction to SuperCollider. 
+- A Gentle Introduction to SuperCollider 
 Σε αυτό το εγχειρίδιο βρήκα πληροφορίες  και απλές εντολές που με βοήθησαν στη σύνθεση (π.χ. .set, .fork, buffers, κ.α.)
+Ruviaro, B. (2014). A Gentle Introduction to SuperCollider 
 
-- Online tutorials του Eli Fieldsteel, Eli_F    
-Σε αυτά τα tutorials εστίασα στο πώς εισάγω ήχο στο SC (SoundIn) μέσω μικροφώνων, στα Synth, SynthDef και MIDIIn.
+- Online tutorials του Eli Fieldsteel   
+Σε αυτά τα tutorials εστίασα στο πώς εισάγω ήχο στο SC (SoundIn) μέσω μικροφώνων, στα Synth, SynthDef και MIDIIn
 
 - οποιαδήποτε αναζήτηση έκανα στο google, συνήθως διάβαζα από 
 https://scsynth.org/
