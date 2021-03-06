@@ -18,7 +18,7 @@
 - Super Collider Documentation home,  (documentation ) ώστε να ανακαλύψω βασικές λειτουργίες των διαφόρων στοιχείων
 
 - A Gentle Intro to SC, Ruviaro, B. (2014). A Gentle Introduction to SuperCollider. 
-Σε αυτό το εγχειρίδιο βρήκα πληροφορίες  και απλές εντολές που με βοήθησαν στη σύνθεση (π.χ. .set, fork, buffers, κ.α.)
+Σε αυτό το εγχειρίδιο βρήκα πληροφορίες  και απλές εντολές που με βοήθησαν στη σύνθεση (π.χ. .set, .fork, buffers, κ.α.)
 
 - Online tutorials του Eli Fieldsteel, Eli_F    
 Σε αυτά τα tutorials εστίασα στο πώς εισάγω ήχο στο SC (SoundIn) μέσω μικροφώνων, στα Synth, SynthDef και MIDIIn.
